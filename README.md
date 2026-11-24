@@ -1,11 +1,6 @@
 # 💫 About Me:
 I'm a Computer Engineering student at Baku Higher Oil School (BHOS) who builds full-stack web apps, with a strong interest in backend systems.<br><br>I work with React, Node.js, TypeScript and Supabase, and I like taking a project from database design all the way to a deployed product. Outside of class I take part in hackathons, where I get to build fast, work in a team and solve real problems under pressure.<br><br>My goal is to keep building real products and grow into a strong backend / AI engineer.
 
-## 🚀 What I've Built:
-- 🚗 **Car Garage Manager**: full-stack app with auth, row-level security, a stats dashboard and email reminders. [Live](https://car-garage-d85.pages.dev) · [Code](https://github.com/Rasul-annaghi/car-garage)
-- 🌌 **SPHEREx Sky Explorer**: built the frontend at NASA Space Apps Challenge 2026
-- 🛡️ **Cyber GAP Analysis Platform**: full-stack community tool for GDG Baku & Holberton
-
 ## 🏆 Achievements:
 - 🥈 **5th place**, NASA Space Apps Challenge 2026
 - 🥉 **3rd place**, GDG Baku & Holberton hackathon
